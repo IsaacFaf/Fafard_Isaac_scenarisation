@@ -30,3 +30,4 @@ graph TD;
     M -->|Non| H;
 
     B --> N[Quitter l'expérience];
+```
