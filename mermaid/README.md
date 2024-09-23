@@ -20,7 +20,7 @@ graph TD;
     
 
     H[Game Over];
-    H-->|Tirer pour recommencer|
+    H-->|Tirer pour recommencer|;
 
     
 
