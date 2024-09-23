@@ -16,10 +16,11 @@ graph TD;
     F -->|Perdre une vie| E;
     E[Jeu continue avec 3 secondes d'invicibilité];
 
-    E -->|Perdre tout les vies| I;
-
+    E -->|Perdre tout les vies| H;
+    
 
     H[Game Over];
+    H-->|Tirer pour recommencer|
 
     
 
