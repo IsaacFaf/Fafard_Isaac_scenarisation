@@ -1,6 +1,12 @@
-# projet Mermaid
-Projet ou que l'on deplace un levier de gauche a droite avec un bouton au top. Le projet incarne le jeu populaire d'arcade rétro Spaceship
-
+### Projet Odysée Mécanique
+## Idée
+# Concept
+Recréée le jeu connu d'arcade Spaceship. Un système de roue ou deplacement permettra un levier de se déplacer de gauche a droite recréant le vaisseau mère de se déplacer et de tirer. Un laser s'animera à chaque tir et des PowerUps permettront d'aider le joueur à parvenir à atteindre un meilleur classement.
+# Objectifs
+Je veux intégrer les connaissances apprises pendant la technique pour effectuer un jeu avec une capacité physique mobile pour que le testeur/joueur est une expérience de cette arcade bien plus réaliste et immersive avec les lasers et tout.
+# Matériel
+9 lasers activable à distance, 9 time of flight m5 stack, un meuble, un levier, 1 Mechanical Key Button Unit M5stack, une affiche du jeu que l'on peut coller sur le meuble, ordinateur, fils électriques (tout en général), système de rail, feutres de protections
+## Scénario
 ```mermaid
 graph TD;
     A[Accueil] --> B{Prendre le levier, Appuyer pour tirer};
@@ -11,7 +17,7 @@ graph TD;
     C{Expérience commence};
 
     C -->|Perdre une vie| E;
-    C -->|Prendre un PowerUp| F[Buff temporaire tu tirs];
+    C -->|Tirer un item PowerUp| F(Buff temporaire du tirs);
 
     F -->|Perdre une vie| E;
     E[Jeu continue avec 3 secondes d'invicibilité];
@@ -26,3 +32,9 @@ graph TD;
 
     
 ```
+# projet Mermaid
+Projet ou que l'on deplace un levier de gauche a droite avec un bouton au top. Le projet incarne le jeu populaire d'arcade rétro Spaceship, 
+
+
+
+*Documentation par Isaac Fafard
