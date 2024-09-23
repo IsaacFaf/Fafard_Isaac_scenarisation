@@ -1,9 +1,13 @@
+# projet Mermaid
+Projet ou que l'on deplace un levier de gauche a droite avec un bouton au top. Le projet incarne le jeu populaire d'arcade rétro Spaceship
+
 ```mermaid
 graph TD;
-    A[Page d'accueil] --> B[Naviguer dans les sections];
-    B --> C{Type de contenu ?};
+    A[Accueil] --> B{Prendre le levier, Appuyer pour tirer};
+    B -->|Tirer| C[Expérience commence];
+    
 
-    C -->|Vidéo| D[Visionner une vidéo];
+    B -->|Pas tirer| A;
     C -->|Audio| E[Écouter de l'audio];
     C -->|Image| F[Voir une galerie d'images];
     C -->|Texte| G[Lire du texte interactif];
