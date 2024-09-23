@@ -12,11 +12,11 @@ graph TD;
 
     C -->|Perdre une vie| E;
     C -->|Prendre un PowerUp| F[Buff temporaire tu tirs];
-    C -->|Perdre 3 vie| H;
 
+    F -->|Perdre une vie| E;
     E[Jeu continue avec 3 secondes d'invicibilité];
 
-    I -->|Perdre 3 vie| H;
+    E -->|Perdre tout les vies| I;
 
 
     H[Game Over];
