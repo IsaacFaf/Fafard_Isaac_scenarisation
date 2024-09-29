@@ -1,7 +1,7 @@
 ### Projet Odysée Mécanique
 ## Idée
 # Concept
-Recréée le jeu connu d'arcade Spaceship. Un système de roue ou deplacement permettra un levier de se déplacer de gauche a droite recréant le vaisseau mère de se déplacer et de tirer. Un laser s'animera à chaque tir et des PowerUps permettront d'aider le joueur à parvenir à atteindre un meilleur classement.
+Recréée le jeu connu d'arcade Spaceship. Un système de roue comme des patins à roulette ou de deplacement en général permettra un levier de se déplacer de gauche a droite permettrant au vaisseau mère de se déplacer et de tirer. Un laser s'animera à chaque tir et des PowerUps permettront d'aider le joueur à parvenir à atteindre un meilleur classement.
 # Objectifs
 Je veux intégrer les connaissances apprises pendant la technique pour effectuer un jeu avec une capacité physique mobile pour que le testeur/joueur est une expérience de cette arcade bien plus réaliste et immersive avec les lasers et tout.
 # Matériel
@@ -34,7 +34,9 @@ graph TD;
 ```
 # projet Mermaid
 Projet ou que l'on deplace un levier de gauche a droite avec un bouton au top. Le projet incarne le jeu populaire d'arcade rétro Spaceship, 
+# Ambiance
+Ambiance espace de style à suivre une musique très pensive comme https://www.youtube.com/watch?v=LlN8MPS7KQs où https://www.youtube.com/watch?v=c56t7upa8Bk. Je veux une ambiance qui laisse pensée que le monde est infini où espoir. J'optes bien plus pour snowfall
 
 
 
-*Documentation par Isaac Fafard
+###### *Documentation par Isaac Fafard
