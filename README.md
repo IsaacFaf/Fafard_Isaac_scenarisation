@@ -32,8 +32,7 @@ graph TD;
 
     
 ```
-# projet Mermaid
-Projet ou que l'on deplace un levier de gauche a droite avec un bouton au top. Le projet incarne le jeu populaire d'arcade rétro Spaceship, 
+
 # Ambiance
 Ambiance espace de style à suivre une musique très pensive comme https://www.youtube.com/watch?v=LlN8MPS7KQs où https://www.youtube.com/watch?v=c56t7upa8Bk. Je veux une ambiance qui laisse pensée que le monde est infini où espoir. J'optes bien plus pour snowfall
 
