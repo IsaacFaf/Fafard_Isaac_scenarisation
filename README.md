@@ -55,8 +55,9 @@ Je veux une ambiance sombre pour laisser les éclairage gérer l'expérience. Le
 * Unity &/où VsCode [Interface du jeu projeté]
 * AfterEffect [Animation SpriteSheet]
 * Lumière AmericanDJ [Ambiance lumineuse]
+* Reaper [Montage sonore]
 # Matériel
-9 lasers activable à distance, 9 time of flight m5 stack, un meuble, un levier, 1 Mechanical Key Button Unit M5stack, une affiche du jeu que l'on peut coller sur le meuble, ordinateur, fils électriques (tout en général), système de rail, feutres de protections
+9 lasers activable à distance, 9 time of flight m5 stack, un meuble, un levier, 1 Mechanical Key Button Unit M5stack, une affiche du jeu que l'on peut coller sur le meuble, ordinateur, fils électriques (tout en général), système de rail, feutres de protections, haut parleurs
 
 
 
