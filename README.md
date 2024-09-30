@@ -48,6 +48,8 @@ Je veux une ambiance sombre pour laisser les éclairage gérer l'expérience. Le
 * rouge vin [Laser ou lumière simulant laser]
 * vert Orchidée [Tirs fusils, Powerups]
 
+# Visualisation
+![Paint](medias/paintExpl.PNG)
 # Technologie utilisé
 * Arduino [Détection de l'emplacement du levier]
 * Unity &/où VsCode [Interface du jeu projeté]
