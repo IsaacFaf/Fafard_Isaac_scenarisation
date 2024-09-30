@@ -6,7 +6,8 @@ Recréé un atmosphère des années 1978 avec le jeu d'arcade réinventer de Spa
 Recréée le jeu connu d'arcade Spaceship. Un système de roue comme des patins à roulette ou de deplacement en général permettra un levier de se déplacer de gauche a droite permettrant au vaisseau mère de se déplacer et de tirer. Un laser s'animera à chaque tir et des PowerUps permettront d'aider le joueur à parvenir à atteindre un meilleur classement.
 
 Je veux intégrer les connaissances apprises pendant la technique pour effectuer un jeu avec une capacité physique mobile pour que le testeur/joueur est une expérience de cette arcade bien plus réaliste et immersive avec les lasers et tout.
-
+# Visualisation
+![Paint](medias/paintExpl.PNG)
 ## Scénario
 ```mermaid
 graph TD;
@@ -48,8 +49,7 @@ Je veux une ambiance sombre pour laisser les éclairage gérer l'expérience. Le
 * rouge vin [Laser ou lumière simulant laser]
 * vert Orchidée [Tirs fusils, Powerups]
 
-# Visualisation
-![Paint](medias/paintExpl.PNG)
+
 # Technologie utilisé
 * Arduino [Détection de l'emplacement du levier]
 * Unity &/où VsCode [Interface du jeu projeté]
